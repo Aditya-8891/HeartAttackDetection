@@ -3,7 +3,7 @@
 A real-time cardiac monitoring and heart attack detection system using a 6-lead ECG wearable device integrated with Arduino hardware and machine learning models for instant health analysis.
 
 ## 📋 Overview
-
+ 
 This project implements an intelligent wearable ECG monitoring device that:
 - **Captures real-time ECG signals** via a 6-lead electrode configuration
 - **Detects potential cardiac anomalies** using advanced machine learning models
