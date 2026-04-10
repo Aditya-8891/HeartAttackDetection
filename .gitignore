@@ -1,0 +1,14 @@
+# Trained models
+*.h5
+
+# MIT-BIH raw records (~400MB)
+data/mitdb_raw/
+
+# Preprocessed numpy arrays
+data/mitdb_processed/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
